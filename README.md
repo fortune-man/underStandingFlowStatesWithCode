@@ -101,6 +101,3 @@ public class ObjectsHelpsFlowStates {
 
 p.s 아는 것만으로 충분하지 않으니 지속적으로 노력할 것
 
-
-public class FlowStates
-FlowStates flowState = new FlowStates();
