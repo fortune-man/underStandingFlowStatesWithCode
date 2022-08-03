@@ -1,3 +1,10 @@
+# 몰입을 지속하기 위한 이해 (설명은 아래로)
+### - 산만함 제거
+### - 정신 제어
+### - 인지 최적화
+### - 실천
+---
+
 # underStandingFlowStatesWithCode
 ```java
 public class FlowStates {  
