@@ -1,5 +1,20 @@
 # underStandingFlowStatesWithCode
 ```java
+public class FlowStates {  
+    static ObjectsHelpsFlowStates flowStatesMethod = new ObjectsHelpsFlowStates();  
+    static NotOnlyKnowGoDoIt notOnlyKnowGoDoIt = new NotOnlyKnowGoDoIt();  
+    public static void main(String[] args) {  
+  
+        flowStatesMethod.distractionFree();  
+        flowStatesMethod.controlMind();  
+        flowStatesMethod.cognitiveOptimize();  
+  
+        notOnlyKnowGoDoIt.NotOnlyKnowGoDoIt();  
+    }  
+}
+```
+
+```java
 public class ObjectsHelpsFlowStates {  
     boolean flowStates;  
     SwitchingCosts switchingCosts = new SwitchingCosts();  
@@ -43,20 +58,8 @@ public class ObjectsHelpsFlowStates {
     }  
 }
 ```
+---
 
-```java
-public class FlowStates {  
-    static ObjectsHelpsFlowStates flowStatesMethod = new ObjectsHelpsFlowStates();  
-    static NotOnlyKnowGoDoIt notOnlyKnowGoDoIt = new NotOnlyKnowGoDoIt();  
-    public static void main(String[] args) {  
-  
-        flowStatesMethod.distractionFree();  
-        flowStatesMethod.controlMind();  
-        flowStatesMethod.cognitiveOptimize();  
-  
-        notOnlyKnowGoDoIt.NotOnlyKnowGoDoIt();  
-    }  
-}
 # underStandingFlowStates
 
 ## 1. 산만함 제거 
